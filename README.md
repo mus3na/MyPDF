@@ -1,5 +1,5 @@
 # MyPDF
-Lite weight free PDF editor
+Free PDF Reader & Editor
 
 Copyright (C) 2026 Ir. Ts. Musnazril Bin Mustaq Khan. All rights reserved. Portions Copyright (C) 2026 mus3na. All rights reserved. For conditions of distribution and use, see License.pdf.
 
