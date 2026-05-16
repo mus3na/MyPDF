@@ -77,6 +77,7 @@ User can place comment and edit existing comment.
 
 ### Search
 User can now search the whole PDF.
+
 ---
 
 ## Keyboard Shortcuts
