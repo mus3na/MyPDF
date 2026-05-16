@@ -72,6 +72,11 @@ Full session undo history covering text edits, page reordering, deletions, inser
 
 The history is cleared when you save and close, or open another file.
 
+### Comment
+User can place comment and edit existing comment.
+
+### Search
+User can now search the whole PDF.
 ---
 
 ## Keyboard Shortcuts
